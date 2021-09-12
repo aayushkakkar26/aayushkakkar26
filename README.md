@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushkakkar26
+- 👋 Hi, I’m Aayush Kakkar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to be confident in do Programming
 - 💞️ I’m looking to collaborate on Projects
